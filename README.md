@@ -1,9 +1,12 @@
 # ECE245
 A basic calculator and notes for BSU course ECE245 - Intro to Electronic Materials
 
+Usage
+$ python3 ECE245.py
+
 Here's a collection of badly typed notes for the course, of which the naming conventions for the python file follows
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Current:
 current, i, is measured as charge moved per time through an element
